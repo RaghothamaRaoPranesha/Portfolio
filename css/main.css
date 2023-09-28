@@ -2513,7 +2513,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .about-process .item-process__header--planning::before {
-  background-image: url(../images/icons/icon-planning.svg);
+  background-image: url(../images/);
 }
 
 .about-process .item-process__header--branding::before {
