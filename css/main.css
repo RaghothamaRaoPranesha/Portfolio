@@ -2712,7 +2712,7 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__thumb a::before {
   display: block;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.85);
   content: "";
   opacity: 0;
   visibility: hidden;
